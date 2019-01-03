@@ -1,0 +1,82 @@
+#header {
+	background-color:#349b33;
+	padding:1px;
+	overflow:auto;
+}
+
+#logo {
+	float:left;
+	padding-right:10px
+}
+
+#nav {
+	border:1px solid black;
+	width:20%;
+	height:700px;
+	float:left;
+	background-color:#349b33;
+}
+@import url('https://fonts.googleapis.com/css?family=Just+Me+Again+Down+Here');
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+#content {
+	border:1px solid black;
+	float:right;
+	width:79%;
+	height:700px;
+	background-color:#349b33;
+	padding-left:7px
+}
+
+#image {
+	float:left;
+	margin:10px;
+	margin-left:0px
+}
+body {
+	background-color:#257224;
+	width:1200px;
+	margin:auto;
+	margin-top:10px;
+	font-family:papyrus,'Just Me Again Down Here',cursive;
+}
+
+h1 {
+	transform: translate(0,50%)
+}
+
+
+
+main{
+	margin-top:10px;
+}
+
+a{
+	text-align:center
+}
+
+ul { 
+list-style: none;
+padding-bottom:10px
+}
+
+li{
+	transform: translate(-20px,0);
+	margin-top:10px;
+	border:1px solid black
+}
